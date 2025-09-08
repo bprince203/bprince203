@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack web developer** with
   - 📩 Email: [hiprince203@gmail.com](hiprince203@gmail.com)  
   - 🔗 LinkedIn: [linkedin.com/bprince203](https://www.linkedin.com/in/bprince203/)  
   - 🐦 Twitter: [@bprince203](https://x.com/bprince203)  
+  -  🚀Leetcode: [@bprince203](https://leetcode.com/u/bprince203/)  
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love Marvel movies and coding late at night!**
 
